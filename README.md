@@ -4,6 +4,7 @@ Autor : Joel Antonio Gonçalves Tigeleiro
 Idade 32 Anos 
 Naturalidade : Estarréja 
 Pais : Portugal
+
 Profissão : Tecnico de informatica instalação e Gestão de Redes
             Programador de Inaformatica
 
