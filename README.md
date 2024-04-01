@@ -6,7 +6,7 @@ Naturalidade : Estarréja
 Pais : Portugal
 
 Profissão : Tecnico de informatica instalação e Gestão de Redes Tenho também formação na Area de programação informatica
-todo Este programa foi desemvolvido em python 
+todo Este programa foi desemvolvido em python  fica aqui o codico em exe
 
 
 
