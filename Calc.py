@@ -54,7 +54,7 @@ Janela.geometry('200x235+100+100')
 Janela.resizable(False, False)
 Janela.title('calc')
 Janela.configure(bg=co0)
-Janela.iconbitmap('C:\\Users\\HP\\Desktop\\Projectos\\Calculadora\\icon.ico')
+#Janela.iconbitmap('C:\\Users\\HP\\Desktop\\Projectos\\Calculadora\\icon.ico')
 #--------------------------------------------------------------------------------------------------------
 
 #--------------------------------------------------------------------------------------------------------
